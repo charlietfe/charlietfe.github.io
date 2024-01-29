@@ -1,6 +1,5 @@
 title: Charlie's Site
 description: Pragmatic Engineer and Sea Lover
-baseurl:
 url: https://charlietfe.github.io/
 
 theme: cvless
@@ -30,3 +29,6 @@ exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
+
+plugins:
+  - jemoji

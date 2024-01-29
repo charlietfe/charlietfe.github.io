@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-# About
+# About me 👨‍💻
 
-Passionate Full Stack Developer with over two decades of experience in the industry, specializing in different stacks and frameworks. As a self-taught learner, I have continuously honed my skills and stayed at the forefront of technological advancements since the early 2000s.
+Passionate full stack developer with over two decades of experience in the industry, specializing in different stacks and frameworks. As a self-taught learner, I have continuously honed my skills and stayed at the forefront of technological advancements since the early 2000s.
 
-Currently working as a Senior Engineer since 2015 at [The Agile Monkeys](https://www.theagilemonkeys.com/), I thrive in agile environments where collaboration and innovation drive success. With a deep understanding of both front-end and back-end technologies, I excel in creating robust and user-friendly applications that deliver exceptional user experiences.
+Currently working as a Senior Engineer since 2015 at [The Agile Monkeys](https://www.theagilemonkeys.com/) 🐵, I thrive in agile environments where collaboration and innovation drive success. With a deep understanding of both front-end and back-end technologies, I excel in creating robust and user-friendly applications that deliver exceptional user experiences.
 
 Throughout my career, I have successfully executed numerous projects, leveraging my expertise in various programming languages, frameworks, and tools. My versatility enables me to seamlessly transition between different tech stacks, ensuring efficient and scalable solutions.
 
