@@ -1,6 +1,6 @@
 title: Charlie's Site
 description: Pragmatic Engineer and Sea Lover
-baseurl: "https://charlietfe.github.io/"
+baseurl:
 url: https://charlietfe.github.io/
 
 theme: cvless
