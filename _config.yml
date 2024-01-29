@@ -1,0 +1,32 @@
+title: Charlie's Site
+description: Pragmatic Engineer and Sea Lover
+baseurl: "https://charlietfe.github.io/"
+url: https://charlietfe.github.io/
+
+theme: cvless
+
+# site settings
+taglong: Pragmatic Engineer, Music and Sea Lover
+tagshort: Charlie's Site
+
+# author settings
+author:
+  name: Carlos Domínguez Padrón
+  email: charlie.iam@icloud.com
+photo: assets/files/photo.jpg
+address: Canary Islands (Spain)
+phone: --
+
+# social media links
+social:
+  github: charlietfe
+  instagram: charlietfe
+  linkedin: carlosdominguezpadron
+  x: atlanticasound
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
