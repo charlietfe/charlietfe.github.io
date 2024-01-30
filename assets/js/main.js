@@ -5,7 +5,7 @@ document.addEventListener(
     const index = Math.floor(Math.random() * 3);
   
     particlesJS.load("particles-js", `assets/js/particles${index}.json`, function () {
-      console.log("particles.js loaded - callback");
+      console.log("dadadadad.js loaded - callback");
     });
   },
   false
