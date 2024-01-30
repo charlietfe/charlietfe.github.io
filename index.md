@@ -5,14 +5,14 @@ title: Home
 
 # About Me 👨‍💻
 
-Passionate full stack developer with over two decades of experience in the industry, specializing in different stacks and frameworks. As a self-taught learner, I have continuously honed my skills and stayed at the forefront of technological advancements since the early 2000s.
+I'm a full stack developer with over 20 years in the tech industry. I've learned a lot on my own and have kept up with new technology since the early 2000s.
 
-Currently working as a Senior Engineer since 2015 at [The Agile Monkeys](https://www.theagilemonkeys.com/) 🐵, I thrive in agile environments where collaboration and innovation drive success. With a deep understanding of both front-end and back-end technologies, I excel in creating robust and user-friendly applications that deliver exceptional user experiences.
+Since 2015, I've been a Senior Engineer @ [The Agile Monkeys](https://www.theagilemonkeys.com/) 🐵, working well in teams that value new ideas and teamwork. I'm good at both front-end and back-end work, and I make applications that are easy to use and make customers happy.
 
-Throughout my career, I have successfully executed numerous projects, leveraging my expertise in various programming languages, frameworks, and tools. My versatility enables me to seamlessly transition between different tech stacks, ensuring efficient and scalable solutions.
+I've worked on many projects, using different programming languages, frameworks, and tools. I can switch between various technologies easily, making sure everything runs smoothly and grows.
 
-I possess a strong problem-solving mindset and a keen eye for detail, allowing me to identify and resolve complex technical challenges effectively. Additionally, my excellent communication and soft skills enable me to collaborate seamlessly with cross-functional teams and stakeholders, fostering a harmonious work environment.
+I'm great at solving problems and pay attention to the little things, which helps me fix complicated issues. I'm also good at talking and working with different people, which makes for a positive workplace.
 
-Passion, dedication, and adaptability have been the driving forces behind my continuous growth and success. I am always eager to explore emerging technologies and embrace new challenges, as they fuel my desire for innovation.
+My love for my work, commitment, and ability to adapt have helped me grow and succeed. I'm always looking to learn about new tech and take on new challenges, as they inspire me to innovate.
 
-In my free time, I like to practice surfing 🏄‍♂️, skateboarding 🛹 and play music on vinyl.
+In my spare time, I like to practice surfing 🏄‍♂️, skateboarding 🛹 and play music on vinyl.
